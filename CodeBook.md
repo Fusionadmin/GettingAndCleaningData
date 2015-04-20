@@ -36,10 +36,14 @@ There are 5 parts:
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 #How run_analysis.R implements the above steps:
-*	Requires ...
+*	Requires dplyr library
 *	Load both test and train data
 *	Load the features and activity labels.
-*	Merge data sets.
+*	Merge training and test sets.
+*	Sets column names
+*	Combins all sets into one dataset
 *	Extract the mean and standard deviation column names and data.
-*	Process the data. There are two parts processing test and train data respectively.
+*	Labels the data set with descriptive variable names
+*	Process the data to create a tidy data set. 
+*	Exports the tidy dataset as a txt file
 
