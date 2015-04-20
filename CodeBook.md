@@ -42,3 +42,8 @@ There are 5 parts:
 *	Extract the mean and standard deviation column names and data.
 *	Process the data. There are two parts processing test and train data respectively.
 
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
