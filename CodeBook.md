@@ -29,9 +29,6 @@ The following files are available for the train and test data. Their description
 #Transformation details
 There are 5 parts:
 
-1. Item 1
-2. Item 2
-3. Item 3
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
@@ -46,8 +43,3 @@ There are 5 parts:
 *	Extract the mean and standard deviation column names and data.
 *	Process the data. There are two parts processing test and train data respectively.
 
-1. Item 1
-2. Item 2
-3. Item 3
-   * Item 3a
-   * Item 3b
